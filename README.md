@@ -1,25 +1,11 @@
-# IES
-IES - UGR (Ingeniería, Empresa y Sociedad)
+# Calculus (UGR)
 
-<!-- TABLE OF CONTENTS -->
-## Tabla de contenidos
+This is a repository for the Engineering, Business and Society subject that I took in my first year of the Bachelor's Degree in Computer Engineering at University of Granada (UGR). Here you can find the notes that I did for this subject.
 
-* [Teoría](#p)
-* [Construido con](#built-with)
-* [Licencia](#license)
-* [Contacto](#contact)
+## Contents
 
-## Teoría
+- Notes: This folder contains the notes that I took for the Engineering, Business and Society subject. The notes cover the basics of the fundamentals of engineering ethics, business management, communication skills, etc.
 
-## Construido con
-[C++](https://www.cplusplus.com)
+## Contact
 
-<!-- LICENCIA -->
-## Licencia
-
-Distribuido bajo la licencia MIT. Vea `LICENSE` para más información.
-
-<!-- CONTACTO -->
-## Contacto
-
-Jose Antonio Padial Molina - joseapadialmolina@gmail.com
+If you have any questions or suggestions about my repository, you can contact me at joseapadialmolina@gmail.com. Thank you for visiting my GitHub profile. 😊
