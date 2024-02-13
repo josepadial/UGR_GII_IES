@@ -1,4 +1,4 @@
-# Calculus (UGR)
+# Engineering, Business and Society (UGR)
 
 This is a repository for the Engineering, Business and Society subject that I took in my first year of the Bachelor's Degree in Computer Engineering at University of Granada (UGR). Here you can find the notes that I did for this subject.
 
